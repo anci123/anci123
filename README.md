@@ -1,5 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Anci - 余原齊</h1>
+<h3 align="center">A CSIE student from National Taiwan Normal University (NTNU).</h3>
 
+- 📝 I write articles on [饅頭的部落格](https://blog.mantoto.tk)
+
+<h2 align="center">Github Stat</h2>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anci123&show_icons=true" alt="anci123" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anci123&show_icons=true" alt="anci123" /></p>
 <!--
 **anci123/anci123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
